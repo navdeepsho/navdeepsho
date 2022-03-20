@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Project on Data Science
 - 💬 Ask me about My Project
 - 📫 How to reach me: [navdeepdelhi111@gmail.com]
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
